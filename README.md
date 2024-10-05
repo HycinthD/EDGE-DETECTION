@@ -24,6 +24,10 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## PROGRAM & OUTPUT:
 ```
+DEVELOPED BY: HYCINTH D
+REGISTER NO:212223240055
+```
+```
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
